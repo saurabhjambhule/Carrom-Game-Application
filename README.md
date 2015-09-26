@@ -1,2 +1,5 @@
 # Carrom-Game-Application
-2 player Carrom Game application developed using pygame library of python, 
+
+Developed 2-player carrom game application, implemented dynamics as per collision laws 
+Used pygame library of python for canvas and physical dynamics 
+It was an integration of physics concepts and programming. Application worked successfully 
